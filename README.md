@@ -1,2 +1,2 @@
 # practice-projects
-Practicing manipulating code from projects in Code Academy 
+Manipulating code from projects in Code Academy.
